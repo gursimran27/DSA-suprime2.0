@@ -1,0 +1,1 @@
+{"name":"Local: replace@withSpace","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\replace@withSpace.cpp","tests":[{"id":1708698507340,"input":"@Gursimran@Singh","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\replace@withSpace.cpp","group":"local","local":true}

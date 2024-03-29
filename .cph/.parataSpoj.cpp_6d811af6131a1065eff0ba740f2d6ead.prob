@@ -1,0 +1,1 @@
+{"name":"Local: parataSpoj","url":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\parataSpoj.cpp","tests":[{"id":1708682875537,"input":"3\n10\n4 1 2 3 4\n8\n1 1\n8\n8 1 1 1 1 1 1 1 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\OneDrive\\Desktop\\DSA\\parataSpoj.cpp","group":"local","local":true}
