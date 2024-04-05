@@ -12,6 +12,7 @@
         "bitset": "cpp",
         "chrono": "cpp",
         "algorithm": "cpp",
-        "cstring": "cpp"
+        "cstring": "cpp",
+        "random": "cpp"
     }
 }
