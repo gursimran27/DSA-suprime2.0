@@ -3,6 +3,8 @@ using namespace std;
 # define rep(i,a,b) for(i=a;i<b;i++)
 #define Size sizeof(arr)/sizeof(*arr)
 
+// ! simillar to LC 78 subsets
+
 void subSequence(string s,int index,string output,vector<string>&ans){
 
     // base case
